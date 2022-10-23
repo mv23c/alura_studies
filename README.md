@@ -1,2 +1,2 @@
 # alura_studies
-Projeto de react com typescript 
+Projeto de react com typescript.
